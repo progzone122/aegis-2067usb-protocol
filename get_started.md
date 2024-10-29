@@ -45,3 +45,5 @@ Two protocols are used to communicate with the keyboard:
 | wIndex        |          | Yes     | Specifies the index or identifier associated with the request                                                      |
 | wLength       |          | Yes     | How many bytes of data the host expects to send to or receive from the USB device as part of a control transfer    |
 | data          |          | Yes     | The payload of information that is sent to or received from the USB device after the control transfer setup packet |
+
+#### Refer to the [protocol documentation](protocol/main.md) to obtain the available values of the fields to be modified

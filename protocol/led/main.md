@@ -1,0 +1,2 @@
+# LED Settings
+- Color effects
