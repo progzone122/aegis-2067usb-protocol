@@ -1,6 +1,8 @@
 # AULA Aegis 2067usb protocol reverse engineering
 Reverse-engineering the USB protocol for the AULA Aegis 2067usb (a.k.a F2067) keyboard to enable direct communication with its controller and change settings without using the official software.
 
+#### Reverse engineering with love from [DiabloSat](https://github.com/progzone122) 💖
+
 <img alt="1730209705_grim" src="https://github.com/user-attachments/assets/152172c1-40e0-4cac-a452-cfa0a0551988" width="300"/>
 
 ## Protocol

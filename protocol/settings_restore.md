@@ -1,5 +1,5 @@
 # Settings Restore
-#### Resets the default keyboard configuration
+Resets the default keyboard configuration
 
 | Parameter | Value                                            |
 |-----------|--------------------------------------------------|
