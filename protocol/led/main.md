@@ -4,7 +4,7 @@ Configuration of animation effect, brightness, speed of backlight animation
 ## Setup Data
 | Parameter | Value  |
 |-----------|--------|
-| wValue    | 0x0307 |
+| wValue    | 0x0207 |
 | wIndex    | 1      |
 | wLength   | 8      |
 
